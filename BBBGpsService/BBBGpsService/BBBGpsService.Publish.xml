@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\jalvarez\Documents\Dropbox\Proyectos\NanoCode\Wii Online\Aplicaciones\WebSites\BBBService\">
+    <file relUrl="bin/BBBGpsService.pdb" publishTime="05/27/2015 10:03:49" />
+    <file relUrl="BBBGps.asmx" publishTime="08/06/2014 17:56:43" />
+    <file relUrl="Web.config" publishTime="03/20/2015 17:59:30" />
+    <file relUrl="bin/BBBGpsService.dll" publishTime="05/27/2015 10:03:49" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Pablo\Documents\Dropbox\Proyectos\NanoCode\Wii Online\Aplicaciones\WebSites\BBBService\">
+    <file relUrl="bin/BBBGpsService.pdb" publishTime="08/24/2014 13:45:27" />
+    <file relUrl="BBBGps.asmx" publishTime="08/06/2014 17:56:43" />
+    <file relUrl="Web.config" publishTime="08/06/2014 18:06:32" />
+    <file relUrl="bin/BBBGpsService.dll" publishTime="08/24/2014 13:45:27" />
+  </publishTarget>
+</publishData>

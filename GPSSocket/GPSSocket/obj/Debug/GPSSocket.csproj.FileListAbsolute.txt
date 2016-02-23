@@ -1,0 +1,5 @@
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\GPSSocket\GPSSocket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\GPSSocket\GPSSocket\bin\Debug\GPSSocket.exe
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\GPSSocket\GPSSocket\bin\Debug\GPSSocket.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\GPSSocket\GPSSocket\obj\Debug\GPSSocket.exe
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\GPSSocket\GPSSocket\obj\Debug\GPSSocket.pdb
